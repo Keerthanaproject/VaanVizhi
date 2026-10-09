@@ -1,0 +1,6 @@
+[seed] data already present — use `npm run demo:reset` to reset
+(node:33636) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+[VaanVizhi API] port 4000 · db=sqlite · demoMode=true · development
+[seed] DEMO data reseeded
+[seed] DEMO data reseeded

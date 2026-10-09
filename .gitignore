@@ -1,0 +1,7 @@
+node_modules
+web/dist
+server/data/*.db*
+.env
+server/.env
+web/e2e/screenshots
+*.log
